@@ -48,6 +48,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+//        this project database is a (MyProject --> newclass5a@gmail.com))
+
         image = findViewById(R.id.imageView);
         progressBar = findViewById(R.id.progressBar);
 
